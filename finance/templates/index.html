@@ -1,0 +1,74 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Index
+{% endblock %}
+
+{% block main %}
+    <div class="alert alert-primary mb-0 text-center" role="alert"> {{ message }} </div>
+    <div class="mb-3">
+        <h1 style="text-align: right">Name: {{ name[0].username }}</h1>
+        <h2 style="text-align: right">Level: {{ cash[0].cash | usd }}</h2>
+        <h2 style="text-align: right">Aspects: {{ total_cash | usd }}</h2>
+    </div>
+
+    <div>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Symbol</th>
+                    <th>Shares</th>
+                    <th>Price</th>
+                    <th>Total</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                {% for row in pocket %}
+                    <tr>
+                        <td>{{ row.sign }}</td>
+                        <td>{{ row.sign }}</td>
+                        <td>{{ row.value }}</td>
+                        <td>{{ row.price | usd }}</td>
+                        <td>{{ row.total | usd }}</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+
+        <div class="row row-cols-1 row-cols-md-3 g-4">
+            <div class="col">
+              <div class="card">
+                <img src="{{ url_for('static', filename='1.jpg') }}" alt="1.lpg">
+                <div class="card-body">
+                  <h5 class="card-title">Search shares</h5>
+                  <p class="card-text">In our application you can buy, store and sell shares of biggest company. Try to search one</p>
+                  <a href="/quote" class="btn btn-primary">Search</a>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+                <div class="card">
+                  <img src="{{ url_for('static', filename='0.jpg') }}" class="card-img-top" alt="ai">
+                    <div class="card-body">
+                        <h5 class="card-title">Buy shares</h5>
+                        <p class="card-text">For making purchase open buying page.</p>
+                        <a href="/buy" class="btn btn-primary">Buy</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col">
+                <div class="card">
+                  <img src="{{ url_for('static', filename='2.jpg') }}" class="card-img-top" alt="ai">
+                    <div class="card-body">
+                        <h5 class="card-title">History</h5>
+                        <p class="card-text">You can look story of your transactions.</p>
+                        <a href="/history" class="btn btn-primary">History</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+{% endblock %}

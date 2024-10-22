@@ -1,0 +1,29 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Quote
+{% endblock %}
+
+{% block main %}
+    <h1 style="text-align: center"> Set up parameters:</h1>
+    <p style="margin: 20px;"></p>
+    <h2 style="text-align: center"> Change password</h2>
+    <form action="/settings" method="post">
+        <div class="mb-3">
+            <input class="form-control mx-auto w-auto" id="password1" name="password1" placeholder="New password" type="password">
+            <input class="form-control mx-auto w-auto" id="password2" name="password2" placeholder="New password" type="password">
+        </div>
+        <button class="btn btn-primary" type="submit">Change</button>
+    </form>
+    <p style="margin: 20px;"></p>
+    <div>
+        <h2 style="text-align: center"> Discard all progress</h2>
+        <form action="/discard" method="post">
+            <div class="mb-3">
+                <input class="form-control mx-auto w-auto" id="discard" name="discard" placeholder="yes/no" type="text">
+            </div>
+            <button class="btn btn-primary" type="submit">Discard</button>
+        </form>
+    </div>
+
+{% endblock %}

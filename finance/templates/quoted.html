@@ -1,0 +1,13 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Quoted
+{% endblock %}
+
+{% block main %}
+    <div class="mb-3">
+        <h1 name="currency">Shere of {{ info.name }}</h1>
+        <h1 name="currency">costs: {{ info.price | usd }}</h1>
+    </div>
+
+{% endblock %}
