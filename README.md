@@ -8,7 +8,19 @@
 **Stack:** Python, Numpy, Matplotlib, Flsk, Pandas, SQL, C, C++, Java, Git.  
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,sqlite,flask,git,vscode,unreal)](https://skillicons.dev)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Russel63&layout=compact)
+
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Russel63&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Russel63&hide_progress=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Russel63)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 <!--
+
+
+
 **Russel63/Russel63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
