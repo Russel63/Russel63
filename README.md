@@ -11,6 +11,13 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Russel63&layout=compact)
 
+Courses completed:
+- CS50, «Introduction to Computer Science» – Harvard University
+- 6.00.1, «Introduction to Computer Science and Programming Using Python» – MIT
+- 6.00.2, «Introduction to Computational Thinking and Data Science» – MIT
+- «Computer Science: Programming with a Purpose» – Princeton University
+- «How to Code: Simple Data» – The University of British Columbia
+
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Russel63&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Russel63&hide_progress=true)
