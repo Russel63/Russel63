@@ -7,7 +7,7 @@
 
 **Stack:** Python, Numpy, Matplotlib, Flsk, Pandas, SQL, C, C++, Java, Git.  
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,sqlite,flask,unreal,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,sqlite,flask,git,vscode,unreal)](https://skillicons.dev)
 <!--
 **Russel63/Russel63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
