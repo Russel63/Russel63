@@ -1,4 +1,4 @@
-## Hi there! My name is Ruslan Leushkin! 
+## Greetings dear visitors! My name is Ruslan Leushkin! 
 ### I am theoretical social-scientist and Python programmer 
 
 **Research experience:** 10 years
