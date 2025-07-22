@@ -5,9 +5,9 @@
 
 **Programming experience:** 2 years
 
-**Stack:** Python, Numpy, Matplotlib, Flsk, Pandas, SQL, C, C++, Java, Git.  
+**Stack:** Python,  C, C++, Pandas, Numpy, Matplotlib, Scikit-Learn, SQL, Git, VS Code.  
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,sqlite,flask,git,vscode,unreal)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,ai,sklearn,tensorflow,sqlite,github,vscode)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Russel63&layout=compact)
 
