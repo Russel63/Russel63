@@ -13,8 +13,10 @@
 
 Courses completed:
 - CS50, «Introduction to Computer Science» – Harvard University
+- CS50AI «Introduction to Artificial Intelligence with Python» – Harvard University
 - 6.00.1, «Introduction to Computer Science and Programming Using Python» – MIT
 - 6.00.2, «Introduction to Computational Thinking and Data Science» – MIT
+- «Mathematics for data analysis and data science» - Yandex Workshop 
 - «Computer Science: Programming with a Purpose» – Princeton University
 - «How to Code: Simple Data» – The University of British Columbia
 
