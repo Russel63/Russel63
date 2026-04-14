@@ -9,7 +9,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,ai,sklearn,tensorflow,sqlite,github,vscode)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Russel63&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Russel63&hide_progress=true)
 
 Courses completed:
 - CS50, «Introduction to Computer Science» – Harvard University
@@ -22,6 +23,7 @@ Courses completed:
 
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Russel63&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Russel63&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Russel63&hide_progress=true)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Russel63)](https://github.com/anuraghazra/github-readme-stats)
 -->
