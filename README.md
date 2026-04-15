@@ -1,8 +1,17 @@
+
+
+
 # Greetings dear visitors! My name is Ruslan Leushkin! 
 
+<p align="center">
+  <img width="3168" height="800" alt="img_20260327_155110" src="https://github.com/user-attachments/assets/f3d3a007-a744-47f7-b9e5-9f458ea10e51" />
+  <br>
+  <em>«Per structuram ad mysterium unitatis»</em>*
+</p>
 
+---
 
-## 🧠 Computational Social Science & ML-engineer
+## 🧠 Computational Social Scientist & ML-engineer
 
 ### *Bridging the gap between Social Theory and Machine Intelligence*
 
@@ -62,14 +71,25 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Russel63&hide_progress=true)
 -->
 
-Courses completed:
-- CS50, «Introduction to Computer Science» – Harvard University
-- CS50AI «Introduction to Artificial Intelligence with Python» – Harvard University
-- 6.00.1, «Introduction to Computer Science and Programming Using Python» – MIT
-- 6.00.2, «Introduction to Computational Thinking and Data Science» – MIT
-- «Mathematics for data analysis and data science» - Yandex Workshop 
-- «Computer Science: Programming with a Purpose» – Princeton University
-- «How to Code: Simple Data» – The University of British Columbia
+---
+
+## 🎓 Current Learning Journey
+*Постоянное развитие на стыке Computer Science и социальных наук.*
+
+
+| University | Course / Specialization | Key Insights |
+| :--- | :--- | :--- |
+| **Harvard** | [CS50x](https://harvard.edu) & [CS50AI](https://harvard.edu) | Фундаментальный CS и основы AI-агентов на Python. |
+| **MIT** | [6.00.1x](https://edx.org) & [6.00.2x](https://edx.org) | Вычислительное мышление и Data Science. |
+| **Princeton** | [Computer Science: Programming with a Purpose](https://coursera.org) | Программирование как инструмент решения задач. |
+| **Yandex** | [Mathematics for Data Analysis](https://yandex.ru) & [Data Science](https://yandex.ru) | Математика анализа данных и машинное обучение. |
+| **UBC** | [How to Code: Simple Data](https://edx.org) | Проектирование систематичного и надежного кода. |
+
+---
+<p align="left">
+<sub>* <b>«Через структуру — к тайне единства»</b> (лат.). <br> 
+Visual identity: <i>«Kintsugi of Being»</i> by Ruslan Leushkin. Generated with Local AI.</sub>
+</p>
 
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Russel63&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
