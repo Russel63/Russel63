@@ -75,15 +75,13 @@
 
 ## 🎓 Current Learning Journey
 *Постоянное развитие на стыке Computer Science и социальных наук.*
-
-
 | University | Course / Specialization | Key Insights |
 | :--- | :--- | :--- |
-| **Harvard** | [CS50x](https://harvard.edu) & [CS50AI](https://harvard.edu) | Фундаментальный CS и основы AI-агентов на Python. |
-| **MIT** | [6.00.1x](https://edx.org) & [6.00.2x](https://edx.org) | Вычислительное мышление и Data Science. |
-| **Princeton** | [Computer Science: Programming with a Purpose](https://coursera.org) | Программирование как инструмент решения задач. |
-| **Yandex** | [Mathematics for Data Analysis](https://yandex.ru) & [Data Science](https://yandex.ru) | Математика анализа данных и машинное обучение. |
-| **UBC** | [How to Code: Simple Data](https://edx.org) | Проектирование систематичного и надежного кода. |
+| **Harvard** | [CS50x](https://certificates.cs50.io/a16e9895-cdea-4eae-ab82-2b6f52746452.pdf) & [CS50AI](https://certificates.cs50.io/7c001975-fbc0-4a54-bab4-24f1ac569216.pdf) | Фундаментальный CS и проектирование AI-агентов. |
+| **MIT** | [6.00.1x](https://courses.edx.org/certificates/4fdab8233b7747579fbc5cd4286715ea) & [6.00.2x](https://courses.edx.org/certificates/2ea00630dbf64fd19414d3f878de29d9) | Вычислительное мышление и прикладной Data Science. |
+| **Princeton** | [Programming with a Purpose](https://coursera.org) | Программирование как инструмент реализации смыслов. |
+| **Yandex** | [Math for DA](https://yandex.ru) & [Data Science](https://yandex.ru) | Математическая база и внутренние механизмы ML. |
+| **UBC** | [How to Code: Simple Data](https://edx.org) | Архитектура, чистота и надежность систем. |
 
 ---
 <p align="left">
