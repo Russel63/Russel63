@@ -3,8 +3,14 @@
 
 # Greetings dear visitors! My name is Ruslan Leushkin! 
 
-<p align="center">
+<!-- <p align="center">
   <img width="3168" height="800" alt="img_20260327_155110" src="https://github.com/user-attachments/assets/f3d3a007-a744-47f7-b9e5-9f458ea10e51" />
+  <br>
+  <em>«Per structuram ad mysterium unitatis»</em>*
+</p> -->
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f3d3a007-a744-47f7-b9e5-9f458ea10e51" width="100%" alt="img_20260327_155110" />
   <br>
   <em>«Per structuram ad mysterium unitatis»</em>*
 </p>
